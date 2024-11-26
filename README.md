@@ -63,9 +63,5 @@ Allows the user to look through certain popular vacation spots. The user can fav
      - =>Home Screen
      - 
 **Wireframes**
-[Add picture of your hand sketched wireframes in this section] 
 
-
-
-[BONUS] Digital Wireframes & Mockups
-[BONUS] Interactive Prototype
+- <img src='IMG_1035.jpg'>
