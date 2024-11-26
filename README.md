@@ -1,81 +1,60 @@
-Milestone 1 - APP_NAME_HERE (Unit 7)
+Milestone 1 - TravelEasy (Unit 7)
 Table of Contents
 Overview
 Product Spec
 Wireframes
+
 Overview
+
 Description
-[Description of your app]
+Allows the user to look through certain popular vacation spots. The user can favorite locations if they like them and want to think about going there in the future. The app will also provide certain activities to do within those locations in order to help users plan their itineraries.
 
 App Evaluation
-[Evaluation of your app across the following attributes]
 
-Category:
-Mobile:
-Story:
-Market:
-Habit:
-Scope:
+Category: Travel
+
+Mobile: Mobile is needed for this because it gives a GPS integration/map for users to be able to find the location and navigate around the area. Can take your location and provide certain ideas on activities you might want to go and try around the area that you are in.
+
+Story: Makes travelling and going on vacation less stressful. People take on a lot of stress when planning for these trips and trying to make it perfect with the activities so having this app will help to make the planning easy yet effective.
+
+Market: Anyone who likes to travel or likes to plan vacations with friends or family.
+
+Habit: Travelers will not use it as often but when they do it will be used a lot throughout the span of a trip or a planning trip process. The average user can both consume and create by looking at popular locations and activities and adding their own as well.
+
+Scope: V1 would allow travelers to see a list of popular location spots to travel to and provide any activities regarding that spot. This could be tested by travelers to see popular spots. V2 would add the mapping of the location. V3 would add the ability to navigate to the location in general. V4 would be user location in order to provide more activities the user can do throughout the day around the area
+
 Product Spec
-1. User Features (Required and Optional)
-Required Features
 
-[fill in your required user features here]
-...
-...
+User Features (Required and Optional)
+Required Features
+Firebase for user auhentication
+External API for data retrieval of popular travel locations
+Room Database or Firebase Firestore to store locations that the user marks as a favorite
 Optional Features
 
-[fill in your optional user features here]
-...
-...
-2. Screen Archetypes
-[list first screen here]
-[list associated required story here]
-...
-[list second screen here]
-[list associated required story here]
-...
-3. Navigation
+GPS service to users to help navigate to the location
+Keeping a consistent UI across everything making it easy for the user to use
+Have the user be able to share photos of certain locations to help other users who potentially might want to go to that location
+Screen Archetypes
+Login Screen
+User can login here
+Home Screen
+User can see a list of popular travel spots
+Saved Screen
+User can see the locations that they favorited all on one screen
+Navigation
 Tab Navigation (Tab to Screen)
-
-[fill out your first tab]
-[fill out your second tab]
-[fill out your third tab]
+Home Feed
+Favorites Feed
 Flow Navigation (Screen to Screen)
 
-[list first screen here]
-[list screen navigation here]
-...
-[list second screen here]
-[list screen navigation here]
-...
+Login Screen
+=>Home Screen
+Home Screen
+=>Saved Screen
+Saved Screen
+=>Home Screen
 Wireframes
-[Add picture of your hand sketched wireframes in this section] 
-
-
-
+[Add picture of your hand sketched wireframes in this section]
 [BONUS] Digital Wireframes & Mockups
 [BONUS] Interactive Prototype
-
-Milestone 2 - Build Sprint 1 (Unit 8)
-GitHub Project board
-[Add screenshot of your Project Board with three milestones visible in this section] 
-
-Issue cards
-[Add screenshot of your Project Board with the issues that you've been working on for this unit's milestone] 
-[Add screenshot of your Project Board with the issues that you're working on in the NEXT sprint. It should include issues for next unit with assigned owners.] 
-Issues worked on this sprint
-List the issues you completed this sprint
-[Add giphy that shows current build progress for Milestone 2. Note: We will be looking for progression of work between Milestone 2 and 3. Make sure your giphys are not duplicated and clearly show the change from Sprint 1 to 2.]
-
-Milestone 3 - Build Sprint 2 (Unit 9)
-GitHub Project board
-[Add screenshot of your Project Board with the updated status of issues for Milestone 3. Note that these should include the updated issues you worked on for this sprint and not be a duplicate of Milestone 2 Project board.] 
-
-Completed user stories
-List the completed user stories from this unit
-List any pending user stories / any user stories you decided to cut from the original requirements
-[Add video/gif of your current application that shows build progress] 
-
-App Demo Video
-Embed the YouTube/Vimeo link of your Completed Demo Day prep video
