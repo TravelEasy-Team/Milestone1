@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "423099139674",
+    "project_id": "traveleasy-5b7ad",
+    "storage_bucket": "traveleasy-5b7ad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423099139674:android:b5af4174ff5659e7523a63",
+        "android_client_info": {
+          "package_name": "com.example.travelapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp5gIQb6dITENLji8ASMU4kfmhUSSumHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
