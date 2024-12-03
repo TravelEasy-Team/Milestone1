@@ -65,3 +65,18 @@ Allows the user to look through certain popular vacation spots. The user can fav
 **Wireframes**
 
 - <img src='IMG_1035.jpg'>
+
+**Milestone 2 - Build Sprint 1 (Unit 8)**
+
+**GitHub Project board**
+<img src='ProjectBoard.PNG'>
+
+**Issue cards**
+<img src='sprint1.PNG'>
+
+<img src='sprint2.PNG'>
+
+**Issues worked on this sprint**
+- Finished the Firebase for user authentication issue. By implementing a login screen, register screen, and a filler home screen that the user can get to after being authenticated through firebase login.
+
+<img src='sprint1.gif'>
