@@ -79,4 +79,7 @@ Allows the user to look through certain popular vacation spots. The user can fav
 **Issues worked on this sprint**
 - Finished the Firebase for user authentication issue. By implementing a login screen, register screen, and a filler home screen that the user can get to after being authenticated through firebase login.
 
+**Completed User Stories**
+- [X] **Firebase for user authentication**
+
 <img src='sprint1.gif'>
