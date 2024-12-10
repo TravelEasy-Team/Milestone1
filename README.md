@@ -83,3 +83,17 @@ Allows the user to look through certain popular vacation spots. The user can fav
 - [X] **Firebase for user authentication**
 
 <img src='sprint1.gif'>
+
+**Milestone 3 - Build Sprint 2 (Unit 9)**
+
+**GitHub Project board**
+<img src='milestone 3 project board.PNG'>
+
+**Completed user stories**
+- [X] **External API for data retrieval**
+- [X] **Room database in order to save locations as favorites**
+
+<img src='Milestone3demo.gif'>
+
+**App Demo Video**
+- <img src='https://youtu.be/Tv2v3QNKmgA'>

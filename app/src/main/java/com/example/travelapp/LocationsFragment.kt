@@ -97,7 +97,7 @@ class LocationsFragment : Fragment() {
     private fun fetchNearbyLocations(latitude: Double, longitude: Double) {
         val url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json" +
                 "?location=$latitude,$longitude" +
-                "&radius=1000" +
+                "&radius=5000" +
                 "&type=tourist_attraction" +
                 "&key=AIzaSyCpCxxcok5crmDllmFvzNLb2XorHb1pclM"
 
