@@ -96,4 +96,4 @@ Allows the user to look through certain popular vacation spots. The user can fav
 <img src='Milestone3demo.gif'>
 
 **App Demo Video**
-- <img src='https://youtu.be/Tv2v3QNKmgA'>
+- https://youtu.be/Tv2v3QNKmgA
